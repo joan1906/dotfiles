@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joanblanco1906@gmail.com
+	name = joan blanco
